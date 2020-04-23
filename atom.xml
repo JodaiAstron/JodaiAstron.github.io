@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jodaiastron.github.io/"/>
-  <updated>2020-04-23T18:00:34.740Z</updated>
+  <updated>2020-04-23T18:08:16.680Z</updated>
   <id>http://jodaiastron.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>[object Object]</title>
+    <title>greeting</title>
     <link href="http://jodaiastron.github.io/2020/04/24/greeting/"/>
     <id>http://jodaiastron.github.io/2020/04/24/greeting/</id>
     <published>2020-04-23T17:56:51.287Z</published>
-    <updated>2020-04-23T18:00:34.740Z</updated>
+    <updated>2020-04-23T18:08:16.680Z</updated>
     
     <content type="html"><![CDATA[<p>##ごあいさつ</p><p>よろしくお願いします。</p>]]></content>
     
@@ -37,8 +37,6 @@
     </summary>
     
     
-    
-      <category term="その他" scheme="http://jodaiastron.github.io/tags/%E3%81%9D%E3%81%AE%E4%BB%96/"/>
     
   </entry>
   
