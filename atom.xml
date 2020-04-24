@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jodaiastron.github.io/"/>
-  <updated>2020-04-24T00:21:49.028Z</updated>
+  <updated>2020-04-24T00:37:37.119Z</updated>
   <id>http://jodaiastron.github.io/</id>
   
   <author>
@@ -21,13 +21,23 @@
     <link href="http://jodaiastron.github.io/2020/04/24/profile/"/>
     <id>http://jodaiastron.github.io/2020/04/24/profile/</id>
     <published>2020-04-24T00:21:49.000Z</published>
-    <updated>2020-04-24T00:21:49.028Z</updated>
+    <updated>2020-04-24T00:37:37.119Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="私について"><a href="#私について" class="headerlink" title="私について"></a>私について</h2><p>鹿児島県在住の高校生です。</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;私について&quot;&gt;&lt;a href=&quot;#私について&quot; class=&quot;headerlink&quot; title=&quot;私について&quot;&gt;&lt;/a&gt;私について&lt;/h2&gt;&lt;p&gt;鹿児島県在住の高校生です。&lt;/p&gt;
+
+      
     
     </summary>
     
     
+    
+      <category term="プロフィール" scheme="http://jodaiastron.github.io/tags/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB/"/>
     
   </entry>
   
