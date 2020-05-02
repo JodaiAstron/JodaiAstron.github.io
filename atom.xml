@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JDlog</title>
   
-  <subtitle>星が好きな高校生の備忘録</subtitle>
+  <subtitle>星好きな高校生の備忘録</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jodaiastron.github.io/"/>
