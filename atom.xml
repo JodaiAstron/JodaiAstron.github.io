@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>JDlog</title>
+  
+  <subtitle>星が好きな高校生の備忘録</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://jodaiastron.github.io/"/>
+  <updated>2020-05-02T08:33:22.463Z</updated>
+  <id>http://jodaiastron.github.io/</id>
+  
+  <author>
+    <name>jd</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ごあいさつ</title>
+    <link href="http://jodaiastron.github.io/2020/05/02/%E3%81%94%E3%81%82%E3%81%84%E3%81%95%E3%81%A4/"/>
+    <id>http://jodaiastron.github.io/2020/05/02/%E3%81%94%E3%81%82%E3%81%84%E3%81%95%E3%81%A4/</id>
+    <published>2020-05-02T08:31:27.448Z</published>
+    <updated>2020-05-02T08:33:22.463Z</updated>
+    
+    <content type="html"><![CDATA[<p>ブログ始めました。</p><p>よろしくお願いします。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;ブログ始めました。&lt;/p&gt;
+&lt;p&gt;よろしくお願いします。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
